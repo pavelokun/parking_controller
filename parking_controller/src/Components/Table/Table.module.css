@@ -1,0 +1,10 @@
+.sort_th {
+  display: flex;
+  justify-content: space-between;
+}
+
+.spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}

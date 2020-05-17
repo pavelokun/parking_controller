@@ -1,0 +1,5 @@
+.multiselect {
+  flex-grow: 1;
+  min-width: 160px;
+  margin: 0px 15px 0 15px;
+}

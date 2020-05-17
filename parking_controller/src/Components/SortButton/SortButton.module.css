@@ -1,0 +1,19 @@
+.button {
+  background: none;
+  border: none;
+  color: grey;
+}
+
+.active {
+  background: none;
+  border: none;
+  color: black
+}
+
+.button:focus {
+  outline: none;
+}
+
+.active:focus {
+  outline: none;
+}
